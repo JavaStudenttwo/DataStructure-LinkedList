@@ -19,7 +19,6 @@ void init(node * phead);
 //在尾部添加数据
 node * addback(node * phead , int data);
 
-
 //在头部添加数据
 node * addhead(node * phead,int data);
 
